@@ -148,7 +148,7 @@ local keys = {
         ["row5key10"] = "right"
     },
     [2] = { --Germany (QWERTZ)
-        ["row1key1"] = "", --MISSING
+        ["row1key1"] = "backslash",
         ["row1key2"] = "1",
         ["row1key3"] = "2",
         ["row1key4"] = "3",
@@ -160,7 +160,7 @@ local keys = {
         ["row1key10"] = "9",
         ["row1key11"] = "0",
         ["row1key12"] = "leftbracket",
-        ["row1key13"] = "", --MISSING
+        ["row1key13"] = "rightbracket",
         ["row1key14"] = "backspace",
 
         ["row2key1"] = "tab",
@@ -207,10 +207,10 @@ local keys = {
 
         ["row5key1"] = "control",
         ["row5key2"] = "",
-        ["row5key3"] = "",
+        ["row5key3"] = "alt",
         ["row5key4"] = "space",
         ["row5key5"] = "alt",
-        ["row5key6"] = "",
+        ["row5key6"] = "control",
         ["row5key7"] = "up",
         ["row5key8"] = "down",
         ["row5key9"] = "left",
