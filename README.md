@@ -25,3 +25,4 @@ Supports keyboard layouts from the US, France, Germany, Italy, Spain and Japan (
 * <a href="https://github.com/AnimeCommander">AnimeCommander</a> for making the original script
 * <a href="https://github.com/gjgfuj">Gjgfuj</a> for modifying the original script
 * <a href="https://www.youtube.com/@relentlesszard8166">RelentlessZard</a> for recommending the Desmume version
+* <a href="https://github.com/Dani88alv">Dani88alv</a> for adding more keyboard layouts and changing the script to make the keystrokes feel more responsive
